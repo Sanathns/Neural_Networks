@@ -1,2 +1,2 @@
 # Neural_Networks
-This repository contains my completed assignments on neural networks as part of my data science course. 
+This repository contains my completed assignments on neural networks as part of my data science course. The assignments cover various topics, including building and training neural networks for classification and regression tasks, implementing different activation functions, and exploring techniques like regularization and optimization. These assignments showcase my practical understanding of neural networks and their applications in data science projects. #DataScience #NeuralNetworks #DeepLearning
